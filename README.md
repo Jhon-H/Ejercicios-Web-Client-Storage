@@ -6,9 +6,9 @@ Practica almacenamiento web con estos ejercicios de LocalStorage, IndexedDB y Co
 
 1. Elige un ejercicio 
 2. Modifica el archivo `index.html` para incluir el ejecicio a ejecutar
-  - Ejemplo: ```<script src="/localstorage/sincronizacion-tabs.js"></script>```
-2. Inicia el servidor, usa ```npx http-server```
-3. Ingrese a la url ```http://localhost:8080```
+   - Ejemplo: ```<script src="/localstorage/sincronizacion-tabs.js"></script>```
+3. Inicia el servidor, usa ```npx http-server```
+4. Ingrese a la url ```http://localhost:8080```
 
 ## Sugerencia
 
